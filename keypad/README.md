@@ -1,3 +1,16 @@
+
+
+
+
+##Project Title
+
+##Description
+
+##Prerequisites
+
+##Installation
+
+##Usage
 Here is some sample code that lets you interact with the keypad
 
 There are 3 files.
@@ -8,8 +21,19 @@ There are 3 files.
 
 `keypad3.py` has a simple state machine that loops around prompt
 
-## How do I run the scripts?
+How do I run the scripts?
 
 Step 1: Clone the repo
 
 Step 2: Run `python3 keypad3.py`
+
+##Contributing
+
+##Authors
+
+##License
+
+##Acknowledgments
+
+
+
